@@ -1,4 +1,14 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+### About
+| Item | Value |
+| :-: | :-: |
+| Name | Kazuki |
+| Work | Programmer/AI Engineer |
+| Language | Japanese/English(Intermediate) |
+| Programming Language | Python/C/C++ |
+<!-- | &#x1D54F;(Twitter) | @ | -->
+
+
 
 <!--
 **k2-gc/k2-gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
