@@ -1,5 +1,6 @@
 <div align="center">
 	<h1>Hi there! 👋  Welcome!</h1>
+	<img src="./imgs/typing.gif">
 </div>
 
 <p align="center">
